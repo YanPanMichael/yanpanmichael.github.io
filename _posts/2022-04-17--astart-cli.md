@@ -1,8 +1,8 @@
 ---
 layout: post
-title: qk-release
+title: astart-cli
 subtitle: A beautiful tool to build an integrated process which includes commit, build, change log, push and publish.
-gh-repo: qk-release
+gh-repo: astart-cli
 gh-badge: [star, fork, follow]
 tags: [release]
 comments: true
