@@ -9,7 +9,7 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: Yan Pan
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://website.seth.bond"
 
 # --- Logo --- #
 
@@ -39,10 +39,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "1214863281@qq.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
+  weichat: 1214863281
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
