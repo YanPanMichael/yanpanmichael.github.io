@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://website.seth.bond"
+  Author's home: "http://website.seth.bond"
 
 # --- Logo --- #
 
@@ -41,11 +41,12 @@ round-avatar: true
 social-network-links:
   email: "1214863281@qq.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  weichat: 1214863281
+#  facebook: deanattali
+  github: "https://github.com/YanPanMichael"
+  weichat: "1214863281"
+  QQ: "1214863281"
   twitter: daattali
-  patreon: DeanAttali
+#  patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -82,7 +83,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "website.seth.bond"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
