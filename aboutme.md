@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Senior Frontend Specialist, Project Manager, Open Source Webmaster
 ---
+My name is Yan Pan, and I am working in Shanghai, China.
 
-My name is Inigo Montoya. I have the following qualities:
+If you are interested in building some repositories together, please join us!!!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Please leave your comments and thank you very much for your valuable advice 😊
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This is my GitHub [page](https://github.com/YanPanMichael).
